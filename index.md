@@ -10,6 +10,9 @@ Aspiring to be a Data & Business Analyst  and passionate about transforming data
 
 This portfolio showcases my projects and assignments, including data analysis, PowerBI dashboards, and other work.
 
+![yasmin](assets/images/1687284866817.jpg)
+
+
 ## Featured Projects
 
 Check out my [Projects](projects) page to see my work, including:
