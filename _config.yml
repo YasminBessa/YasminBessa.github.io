@@ -4,7 +4,7 @@ description: My Portfolio Website
 url: "https://yourusername.github.io"
 
 # Theme
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown
